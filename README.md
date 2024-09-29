@@ -1,8 +1,8 @@
-<h1 align="left">“You are a good friend and we welcome you.”  😊<br>Condoleezza Rice, 2006</h1>
+<h1 align="center">“You are a good friend and we welcome you.”  😊<br>Condoleezza Rice, 2006</h1>
 
 ###
 
-<p align="center">Hi, my name is Breno Scafura. I am a Jr. Software developer focused in Web Development. Right know I am pursuing to improve my skills in Web3 development, since I believe that blockchain techonologies will change the way we think about IT and make business all around the world.</p>
+<p align="left">Hi, my name is Breno Scafura. I am a Jr. Software developer focused in Web Development. Right know I am pursuing to improve my skills in Web3 development, since I believe that blockchain techonologies will change the way we think about IT and make business all around the world.</p>
 
 ###
 
