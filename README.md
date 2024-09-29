@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">My techs ❤️🖥️</h2>
+<h2 align="left">My techs 🖥️</h2>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<h2 align="left">My Stats 😊🥵</h2>
+<h2 align="left">My Stats 📈</h2>
 
 ###
 
@@ -46,14 +46,14 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Breno Enzo Scafura">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Breno%20Enzo%20Scafura&count=1&unique=false" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/12142633406">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=12142633406&count=1&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
 
-<h2 align="center">Connect with me :)!</h2>
+<h2 align="center">Connect with me 👍</h2>
 
 ###
 
@@ -61,7 +61,7 @@
   <a href="https://www.linkedin.com/in/brenoscafura/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="enzoscafura@gmail.com" target="_blank">
+  <a href="mailto:enzoscafura@gmail.com?" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
